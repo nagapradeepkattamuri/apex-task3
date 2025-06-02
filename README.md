@@ -21,18 +21,4 @@ A simple, responsive web application that allows users to:
 - **JavaScript** for interactivity (`app.js`)
 - **OpenWeatherMap API** for real-time weather data
 
-## Setup Instructions
-
-1. **Clone or download this repository.**
-
-2. **Open `index.html` in a browser** to view and use the application.
-
-3. **Weather API Note:**
-   - The app uses a sample API key for demonstration. For production use, get your own API key from [OpenWeatherMap](https://openweathermap.org/api) and replace the `apiKey` in `app.js`:
-
-     ```javascript
-     const apiKey = "YOUR_API_KEY_HERE";
-     ```
-
-## File Structure
 
